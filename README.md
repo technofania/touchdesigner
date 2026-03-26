@@ -12,5 +12,5 @@ https://we.tl/t-VvxDzLfiMA
 
 **ZajęciaIII_opisane:** Podstawy render pipeline z audioreaktywnością
 
-
+**UI Opisane ** Opisane zajęcia z budowania podstawowego User Interface. Jak programować widgety oraz je komponować w customowym interfejsie graficznym.
 
