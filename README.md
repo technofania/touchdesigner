@@ -1,4 +1,3 @@
-https://we.tl/t-VvxDzLfiMA
 
 **API_Pobieranie:** plik .toe w którym są podstawowe modyfikacje JSONa pobieranego przez webclient DAT, przydatne przy łączeniu się z API
 
@@ -6,7 +5,7 @@ https://we.tl/t-VvxDzLfiMA
 
 **Podstawa3D_Opisane:** Podstawowe tworzenie render pipe z obiekami 3D
 
-**Podstawa3D_Rozszerzenie:** Rozwinięcie tematu, więcej elementów, przydatne do poszerzenia i utrwalenia wiedzy
+**Podstawa3D_Rozszerzenie:** Rozwinięcie tematu, więcej elementów
 
 **TOPy_opisane:** Opisane zajęcia z TOPów
 
