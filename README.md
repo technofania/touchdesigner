@@ -13,3 +13,5 @@
 
 **UI Opisane** Opisane zajęcia z budowania podstawowego User Interface. Jak programować widgety oraz je komponować w customowym interfejsie graficznym.
 
+
+**topy_opisane.1:** Nowy zestaw - opisane zajęcia z TOPów (wersja 2026)
