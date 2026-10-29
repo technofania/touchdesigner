@@ -1,17 +1,5 @@
+# TouchDesigner — pliki do zajęć
 
-**API_Pobieranie:** plik .toe w którym są podstawowe modyfikacje JSONa pobieranego przez webclient DAT, przydatne przy łączeniu się z API
+Nowy zestaw. Poprzednie pliki zostały usunięte z `main` (nadal są w historii gita, commit `98025fb` i wcześniejsze).
 
-**Chopy_Opisane:** Opisane zajęcia z CHOPów
-
-**Podstawa3D_Opisane:** Podstawowe tworzenie render pipe z obiekami 3D
-
-**Podstawa3D_Rozszerzenie:** Rozwinięcie tematu, więcej elementów
-
-**TOPy_opisane:** Opisane zajęcia z TOPów
-
-**ZajęciaIII_opisane:** Podstawy render pipeline z audioreaktywnością
-
-**UI Opisane** Opisane zajęcia z budowania podstawowego User Interface. Jak programować widgety oraz je komponować w customowym interfejsie graficznym.
-
-
-**topy_opisane.1:** Nowy zestaw - opisane zajęcia z TOPów (wersja 2026)
+**topy_opisane.1:** Opisane zajęcia z TOPów
